@@ -26,7 +26,7 @@ public class LoopingProblems {
             System.out.println(i); // Output i (this will be repeated as there is a loop)
         }
 
-        // PART 2
+        // PART B
 
         // Problem 5
         System.out.println("\nProblem 5:"); // Output that this is problem 5
